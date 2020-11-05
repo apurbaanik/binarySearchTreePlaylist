@@ -1,0 +1,49 @@
+Subset from All of Me to Be Alright->
+Song: All of Me, Artist: John Legend, Average Streams: 4804805, Average Artist Count: 4
+Song: Amarillo, Artist: J Balvin, Average Streams: 5448780, Average Artist Count: 4
+Song: Andere Welt, Artist: Capital Bra, Average Streams: 1400217, Average Artist Count: 1
+Song: Anxiety - Intro, Artist: Juice WRLD, Average Streams: 2112389, Average Artist Count: 1
+Song: Are You Bored Yet? (feat. Clairo), Artist: Wallows, Average Streams: 6441977, Average Artist Count: 4
+Song: august, Artist: Taylor Swift, Average Streams: 5254610, Average Artist Count: 1
+Song: Ay, DiOs Mío!, Artist: KAROL G, Average Streams: 4235397, Average Artist Count: 3
+Song: Azul, Artist: J Balvin, Average Streams: 7977406, Average Artist Count: 4
+Song: Bad Bitch From Tokyo (Intro), Artist: Pop Smoke, Average Streams: 1536184, Average Artist Count: 1
+Song: Bad Energy, Artist: Juice WRLD, Average Streams: 6540348, Average Artist Count: 3
+Song: bad guy, Artist: Billie Eilish, Average Streams: 8643940, Average Artist Count: 4
+Song: Ballin' (with Roddy Ricch), Artist: Mustard, Average Streams: 5072119, Average Artist Count: 4
+Song: Banana (feat. Shaggy) - DJ FLe - Minisiren Remix, Artist: Conkarah, Average Streams: 8100499, Average Artist Count: 4
+Song: Bandit (with YoungBoy Never Broke Again), Artist: Juice WRLD, Average Streams: 3917385, Average Artist Count: 3
+Song: Be Alright, Artist: Dean Lewis, Average Streams: 2237127, Average Artist Count: 2
+
+
+Subset from Toosie Slide to Watermelon Sugar->
+Song: Toosie Slide, Artist: Drake, Average Streams: 16655932, Average Artist Count: 4
+Song: TROLLZ (with Nicki Minaj), Artist: 6ix9ine, Average Streams: 4071550, Average Artist Count: 3
+Song: Tunnel Vision (Outro), Artist: Pop Smoke, Average Streams: 1226937, Average Artist Count: 1
+Song: Tusa, Artist: KAROL G, Average Streams: 10512644, Average Artist Count: 4
+Song: UN DIA (ONE DAY) (Feat. Tainy), Artist: J Balvin, Average Streams: 4582466, Average Artist Count: 1
+Song: Unterwegs, Artist: Apache 207, Average Streams: 1475354, Average Artist Count: 1
+Song: Up Up And Away, Artist: Juice WRLD, Average Streams: 4634669, Average Artist Count: 2
+Song: Wake Me Up, Artist: Avicii, Average Streams: 1115488, Average Artist Count: 1
+Song: Walk Em Down (feat. Roddy Ricch), Artist: NLE Choppa, Average Streams: 5717132, Average Artist Count: 4
+Song: Wash Us In The Blood, Artist: Kanye West, Average Streams: 3660143, Average Artist Count: 2
+Song: Watermelon Sugar, Artist: Harry Styles, Average Streams: 26358650, Average Artist Count: 4
+
+
+Subset from Sunday Best to The Box->
+Song: Sunday Best, Artist: Surfaces, Average Streams: 10964279, Average Artist Count: 4
+Song: Sunflower - Spider-Man: Into the Spider-Verse, Artist: Post Malone, Average Streams: 8679239, Average Artist Count: 4
+Song: Supalonely, Artist: BENEE, Average Streams: 13196208, Average Artist Count: 4
+Song: Sweet but Psycho, Artist: Ava Max, Average Streams: 3458906, Average Artist Count: 3
+Song: Tak Tiki Tak, Artist: Harry Nach, Average Streams: 7376104, Average Artist Count: 4
+Song: Take You Dancing, Artist: Jason Derulo, Average Streams: 1373216, Average Artist Count: 1
+Song: Tattoo, Artist: Rauw Alejandro, Average Streams: 5841005, Average Artist Count: 4
+Song: Tattoo - Remix with Camilo, Artist: Rauw Alejandro, Average Streams: 9093770, Average Artist Count: 3
+Song: Tell Me U Luv Me (with Trippie Redd), Artist: Juice WRLD, Average Streams: 6189428, Average Artist Count: 3
+Song: TELL ME WHY, Artist: The Kid LAROI, Average Streams: 1264246, Average Artist Count: 1
+Song: the 1, Artist: Taylor Swift, Average Streams: 7255367, Average Artist Count: 1
+Song: The Adventures of Moon Man & Slim Shady (with Eminem), Artist: Kid Cudi, Average Streams: 3455455, Average Artist Count: 2
+Song: The Bigger Picture, Artist: Lil Baby, Average Streams: 5645580, Average Artist Count: 4
+Song: The Box, Artist: Roddy Ricch, Average Streams: 12543814, Average Artist Count: 4
+
+
